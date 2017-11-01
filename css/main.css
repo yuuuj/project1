@@ -1,0 +1,11 @@
+#main{
+    color: purple;
+    font-size: 60px;
+    background-color: black;
+}
+div a{
+    color:red;
+}
+p>a{
+    color:green;
+}
